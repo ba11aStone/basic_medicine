@@ -1,0 +1,6 @@
+#+TITLE: 生物化学与分子生物学 Biochemistry & Molecular Biology
+#+AUTHOR: Yuanchen Xie <yuanchen.gm@gmail.com>
+#+STARTUP: content
+#+STARTUP: indent
+- 生物化学（biochemistry），是一门在分子水平上研究生命现象的科学，它主要应用化学原理和方法来探讨生命的奥秘和本质，着眼于搞清组成生物体物质的分子结构和功能，维持生命活动的各种化学变化及其与生理机能的联系。
+*
