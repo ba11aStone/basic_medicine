@@ -40,7 +40,7 @@
 固有免疫和适应性免疫的比较
 |                | 固有免疫（innate immunity）           | 适应性免疫（adaptive immunity）  |
 |                | 非特异性免疫（non-specific immunity） | 特异性免疫（specific immunity）  |
-|----------------|---------------------------------------|----------------------------------|
+|----------------+---------------------------------------+----------------------------------|
 | 获得形式       | 固有性（或先天性）                    | 获得性免疫（acquired immunity）  |
 |                | 无需抗原激发                          | 需接触抗原                       |
 | 发挥作用时相   | 早期，快速（数分钟~4 天）             | 4~5 天后发挥效应                 |
@@ -76,70 +76,35 @@
 
 * 免疫器官和组织
 
-
-
-
 免疫系统（immune system）是机体执行免疫应答及免疫功能的一个重要系统。
 
-免疫组织（immune tissue）又称为淋巴组织（lymphoid
-tissue）。淋巴组织在人体内分布广泛，其中大量非包膜化的弥散淋巴组织（diffuse
-lymphoid tissue）和淋巴小结（lymphoid
-nodule），在黏膜局部抗感染免疫中发挥主要作用。
+免疫组织（immune tissue）又称为淋巴组织（lymphoid tissue）。淋巴组织在人体内分布广泛，其中大量非包膜化的弥散淋巴组织（diffuse lymphoid tissue）和淋巴小结（lymphoid nodule），在黏膜局部抗感染免疫中发挥主要作用。
 
-淋巴组织是胸腺、脾、淋巴结等包膜化淋巴器官（lymphoid
-organ）的主要组分。淋巴器官因具有免疫功能，又被称为免疫器官（immune
-organ）。
+淋巴组织是胸腺、脾、淋巴结等包膜化淋巴器官（lymphoid organ）的主要组分。淋巴器官因具有免疫功能，又被称为免疫器官（immune organ）。
 
 ** 中枢免疫器官和组织
 
-
-
-
-中枢免疫器官（central immune organ）或称初级淋巴器官（primary lymphoid
-organ），是免疫细胞发生、分化、发育和成熟的场所。人或其他哺乳类动物的中枢免疫器官包括骨髓和胸腺。鸟类的腔上囊（法氏囊）是
-B 细胞分化发育的场所。
+中枢免疫器官（central immune organ）或称初级淋巴器官（primary lymphoid organ），是免疫细胞发生、分化、发育和成熟的场所。人或其他哺乳类动物的中枢免疫器官包括骨髓和胸腺。鸟类的腔上囊（法氏囊）是 B 细胞分化发育的场所。
 
 *** 骨髓
 
-
-
-
-骨髓（bone
-marrow）是各类血细胞和免疫细胞发生及成熟的场所，是机体重要的中枢免疫器官。
+骨髓（bone marrow）是各类血细胞和免疫细胞发生及成熟的场所，是机体重要的中枢免疫器官。
 
 **** 骨髓的结构与造血微环境
 
-
-
-
 骨髓位于骨髓腔中，分为红骨髓和黄骨髓。
 
-由基质细胞及其所分泌的多种细胞因子与细胞外基质共同构成了造血细胞赖以分化发育的环境，称为造血诱导微环境（hemopoietic
-inductive microenvironment, HIM）。
+由基质细胞及其所分泌的多种细胞因子与细胞外基质共同构成了造血细胞赖以分化发育的环境，称为造血诱导微环境（hemopoietic inductive microenvironment, HIM）。
 
 **** 骨髓的功能
 
-
-
-
 ***** 1. 各类血细胞和免疫细胞发生的场所
 
-
-
-
-骨髓多能造血干细胞（pluripotent hematopoietic stem cell,
-HSC）在骨髓微环境中首先分化为髓样祖细胞（myeloid
-progenitor）和淋巴样祖细胞（lymphoid progenitor）。
+骨髓多能造血干细胞（pluripotent hematopoietic stem cell, HSC）在骨髓微环境中首先分化为髓样祖细胞（myeloid progenitor）和淋巴样祖细胞（lymphoid progenitor）。
 
 ***** 2. B 细胞分化成熟的场所
 
-
-
-
 ***** 3. 体液免疫应答发生的场所
-
-
-
 
 骨髓是发生再次体液免疫应答的主要部分。
 
@@ -147,28 +112,15 @@ progenitor）和淋巴样祖细胞（lymphoid progenitor）。
 
 **** 造血干细胞与免疫细胞的生成
 
-
-
-
 免疫细胞都属于血细胞，所有血细胞均来源于造血干细胞。因此，免疫细胞发育分化就是造血干细胞分化成熟的过程。
 
 ***** 1. 造血干细胞的起源
 
-
-
-
 ***** 2. 造血干细胞的表面标志
 
-
-
-
-人造血干细胞的主要表面标记为 CD34 和
-c-kit（CD117），不表达谱系（lineage）特异性标志。
+人造血干细胞的主要表面标记为 CD34 和 c-kit（CD117），不表达谱系（lineage）特异性标志。
 
 ***** 3. 造血干细胞的分化及免疫细胞的生成
-
-
-
 
 1. 多能造血干细胞的分化
 
@@ -188,28 +140,17 @@ c-kit（CD117），不表达谱系（lineage）特异性标志。
 
 *** 胸腺
 
-
-
-
 胸腺（thymus）是 T 细胞分化、发育、成熟的场所。
 
 **** 胸腺的结构
 
-
-
-
 1. 皮质
 
-皮质内 85%~90% 的细胞为未成熟 T
-细胞（即胸腺细胞），并有胸腺上皮细胞（thymus epithelial cell,
-TEC）、巨噬细胞（macrophage, Mφ）和树突状细胞（dendritic cell, DC）等。
+皮质内 85%~90% 的细胞为未成熟 T 细胞（即胸腺细胞），并有胸腺上皮细胞（thymus epithelial cell, TEC）、巨噬细胞（macrophage, Mφ）和树突状细胞（dendritic cell, DC）等。
 
 2. 髓质
 
 **** 胸腺微环境
-
-
-
 
 胸腺实质主要由胸腺细胞和胸腺基质细胞（thymic stromal cell, TSC）组成。
 
@@ -223,9 +164,6 @@ TEC）、巨噬细胞（macrophage, Mφ）和树突状细胞（dendritic cell, D
 
 **** 胸腺的功能
 
-
-
-
 1. T 细胞分化、成熟的场所
 
 2. 免疫调节
@@ -234,12 +172,7 @@ TEC）、巨噬细胞（macrophage, Mφ）和树突状细胞（dendritic cell, D
 
 ** 外周免疫器官和组织
 
-
-
-
-外周免疫器官（peripheral immune organ）或称次级淋巴器官（secondary
-lymphoid organ），是成熟淋巴细胞（T 细胞、B
-细胞）定居的场所，也是这些淋巴细胞针对外来抗原刺激后启动初次免疫应答的主要部位。
+外周免疫器官（peripheral immune organ）或称次级淋巴器官（secondary lymphoid organ），是成熟淋巴细胞（T 细胞、B 细胞）定居的场所，也是这些淋巴细胞针对外来抗原刺激后启动初次免疫应答的主要部位。
 
 *** 淋巴结（limph node）
 
@@ -304,9 +237,6 @@ T 细胞约占淋巴结内淋巴细胞总数的 75%，B 细胞约占 25%。
 
 ***** 过滤作用
 
-
-
-
 *** 脾
 
 
@@ -347,21 +277,11 @@ B 细胞约占脾淋巴细胞总数的 60%，T 细胞约占 40%。
 
 ***** 过滤作用
 
-
-
-
 *** 黏膜相关淋巴组织
 
-
-
-
-黏膜相关淋巴组织（mucosal-associated lymphoid tissue,
-MALT）亦称黏膜免疫系统（mucosal immune system, MIS）。
+黏膜相关淋巴组织（mucosal-associated lymphoid tissue, MALT）亦称黏膜免疫系统（mucosal immune system, MIS）。
 
 **** MALT 的组成
-
-
-
 
 1. 肠相关淋巴组织（gut-associated lymphoid tissue, GALT）
 
@@ -371,45 +291,23 @@ MALT）亦称黏膜免疫系统（mucosal immune system, MIS）。
 
 **** MALT 的功能及其特点
 
-
-
-
 1. 参与黏膜局部免疫应答
 
 2. 产生分泌型 IgA（SIgA）
 
 ** 淋巴细胞归巢与再循环
 
+成熟淋巴细胞离开中枢免疫器官后，经血液循环趋向性迁移并定居于外周免疫器官或组织的特定区域，称为淋巴细胞归巢（lymphocyte homing）。
 
-
-
-成熟淋巴细胞离开中枢免疫器官后，经血液循环趋向性迁移并定居于外周免疫器官或组织的特定区域，称为淋巴细胞归巢（lymphocyte
-homing）。
-
-淋巴细胞在血液、淋巴液、淋巴器官或组织间反复循环的过程称为淋巴细胞再循环（lymphocyte
-recirculation）。
+淋巴细胞在血液、淋巴液、淋巴器官或组织间反复循环的过程称为淋巴细胞再循环（lymphocyte recirculation）。
 
 *** 淋巴细胞归巢
 
-
-
-
 *** 淋巴细胞再循环及其生物学意义
-
-
-
 
 **** 淋巴细胞再循环途径有多条通路
 
-
-
-
 **** 淋巴细胞再循环的生物学意义
-
-
-
-
---------------
 
 * 抗原
 
