@@ -824,19 +824,65 @@
 2. 通过间隙连接的直接联系型；
 3. 通过质膜结合分子的直接接触型。
 **** 化学信号的种类
+***** 胞间通讯的信号分子
+第一信使
+***** 胞内通讯的信号分子
+第二信使
 **** 细胞分泌化学信号的作用方式
+***** 内分泌（endocrine）
+***** 旁分泌（paracrine）
+***** 自分泌（autocrine）
+***** 突触传递（synaptic transmission）
 **** 受体
+***** 受体的概念
+受体是细胞膜或细胞内的一些天然分子，能够识别和结合有生物活性的化学信号物质（配体，ligand），从而启动一系列信号转导，最后产生相应的生物学效应。
+
+1. 识别与结合
+2. 信号转导
+3. 生物学效应
+***** 受体的特征
+1. 特异性
+2. 亲和性
+3. 饱和性
+4. 可逆性
+***** 受体的分类与结构
+1. 离子通道型受体（ion channel linked receptors），配体门控离子通道（ligand-gated ion channel）
+2. G 蛋白偶联型受体（G protein linked receptors），7 螺旋受体（seven-helix receptors）
+3. 催化型受体（catalytic receptors）和酶偶联型受体（enzyme linked receptors）
+4. 核受体（nuclear receptors）
 *** G 蛋白偶联型受体的信号传导
+跨膜信号转导（transmembrane signal transduction）
+
+G 蛋白偶联型受体简称 GPCR（G protein coupled receptor）
 **** G 蛋白
+G 蛋白是一种鸟苷三磷酸结合蛋白（GTP binding proteins），一般是指与细胞表面受体偶联的异三聚体 G 蛋白。
+***** G 蛋白的结构
+***** G 蛋白的种类
 **** 跨膜信号传导的机制
+***** Gs 的作用机制
+Gs 是激活型受体（Rs）与腺苷酸环化酶（adenylate cyclase, AC）之间的偶联蛋白。
+***** Gi 的作用机制
+***** Gq 的信号转导作用
 **** 胞内信号传导通路
+***** cAMP-PKA 信号通路
+1. cAMP 的产生与灭活
+2. PKA 信号通路
+   cAMP 通过 cAMP 依赖性蛋白激酶（cAMP dependent protein kinase, PKA）来传递信息。
+***** DG/Ca^2+ -PKC 信号通路
 *** 细胞内 Ca^2+ 稳态平衡与 Ca^2+ 信号通路
 **** Ca^2+ 信号的产生与终止
-**** 钙调素
+**** 钙调素（calmodulin, CaM）
 **** CaM 激酶信号通路
-*** 催化型受体和酶偶联型受体的信号传导
+*** 催化型受体（catalytic receptor）和酶偶联型受体的信号传导
 **** 催化型受体的信号传导
+***** 酪氨酸蛋白激酶受体的信号转导
+具有酪氨酸蛋白激酶（protein tyrosine kinase, PTK）活性的受体，又称为受体酪氨酸蛋白激酶（receptor tyrosine kinase, RTK）。
+***** 鸟苷酸环化酶受体的信号转导
 **** 酪氨酸蛋白激酶偶联型受体的信号传导
+***** 酪氨酸蛋白激酶偶联型受体（tyrosine kinase linked receptors）
+非受体酪氨酸蛋白激酶有两个家族，一个是 JAK（just another kinase 或 janus kinase）PTK 家族，另一个是 Src PTK 家族。
+***** JAK-STAT 信号通路
+JAK 的胞浆底物蛋白是近年来发现的一类新的转录因子，称为信号转导子和转录激活子（signal transducer and activator of transcription），他被磷酸化后，借助 STAT 分子中 SH2 结构形成二聚体，穿过核膜结合到 DNA 的特定序列上调节基因表达。
 *** 细胞核内信号传导
 **** 核受体介导的信号传导
 **** 转录因子调控的信号传导
@@ -851,9 +897,14 @@
 **** 细胞信号传导与缺血性脑损伤
 ** 细胞增殖、分化与凋亡的分子基础
 *** 细胞增殖及其调控
-**** 细胞周期
+**** 细胞周期（cell cycle）
+细胞周期是指细胞从上一次细胞分裂结束到下次细胞分裂完成所经历的整个过程，这个过程周而复始，呈现一定的周期性，主要包括两个时期：分裂期（mitosis, M 期）和分裂间期（interphase）。分裂间期依次分为 G_1 期（Gap1）、S 期（DNA synthesis）和 G_2 期。
 **** 细胞周期的调控点
+细胞通过一系列有序的内部时间产生两个完全相同的子代细胞，实现细胞的增殖，这些事件包括细胞生长、DNA 合成、染色体凝缩、核被膜破裂和染色体分离，随后细胞分裂。细胞周期能顺利地发生、发展到完成，取决于三个重要的调控点（checkpoint），这些调控点保证前一步骤圆满完成后，才启动下一个步骤，使细胞周期按一定的次序正确前行。
+
+细胞周期的三个调控点分别为 G_0/G_1、G_1/S、G_2/M。其中 G_1/S 调控点，称限值点（restriction point, R 点）。
 **** 参与细胞周期调控的主要蛋白因子
+细胞周期控制系统由细胞周期蛋白（cyclin），细胞周期蛋白依赖性激酶（cyclin-dependent kinase, CDK）和 CDK 抑制物（CDK inhibitor, CDKI）三大类蛋白家族所组成。
 **** 细胞周期调控系统与肿瘤发生的关系
 *** 细胞分化
 **** 细胞分化特征
