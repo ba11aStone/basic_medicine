@@ -773,10 +773,23 @@
 **** 血清胆红素与黄疸
 * 生命信息的传递与调控
 ** DNA 的生物合成
+在细胞分裂过程中，染色体 DNA 通过复制（replication），将遗传信息从亲代 DNA 传递到子代 DNA 分子。DNA 复制的过程是在模板（template）指导下脱氧核苷酸的酶促聚合反应，在多种酶和蛋白质因子的参与下，这一重要的生物合成过程迅速而准确地进行。逆转录病毒的遗传物质是 RNA，通过逆转录（reverse transcription）机制合成互补的 DNA，以传递遗传信息。
 *** DNA 指导的 DNA 合成——DNA 复制概述
-**** 半保留复制
-**** 半不连续复制
-**** 双向复制
+**** 半保留复制（semi-conservative replicaiton）
+DNA 复制最主要的特征。子代细胞的 DNA 双链中，一条单链是由亲代 DNA 完整地保留下来，另一条单链则完全是重新合成。这种复制方式称为半保留复制。由于碱基互补，两个子代 DNA 分子和亲代 DNA 分子的碱基序列一致。
+**** 半不连续复制（semi-discontinuous replication）
+***** DNA 合成的方向性（5'→3'）
+DNA 复制的过程是模板指导下连续的脱氧核苷酸的酶促聚合反应过程。聚合反应是在依赖 DNA 的 DNA 聚合酶（DNA-dependent DNA polymerase, 又称 DNA 指导的 DNA 聚合酶，DNA-direct DNA polymerase, DDDP 或 DNA-pol, 简称 DNA 聚合酶）的催化下完成的。DNA 聚合酶以单链 DNA 为模板，按照碱基互补配对的原则选择适当的底物——脱氧三磷酸核苷（deoxynucleoside triphosphate, dNTP, 包括 dATP、dGTP、dCTP、dTTP）掺入反应，通过催化生成磷酸二酯键以聚合形成 DNA 长链。
+
+DNA 新链的合成只能从 5'向 3'方向进行。
+***** 复制的半不连续性
+在半保留复制的过程中，亲代 DNA 分子的双螺旋链依次解开，形成 Y 字形的结构，即复制叉（replicaiton fork）。在伸展的复制叉处，两条链各自作为模板，同时进行复制。
+
+DNA 复制的机制是半不连续的复制。在复制中产生的不连续的 DNA 片段被称为冈崎片段（Okazaki fragment）。最后由 DNA 连接酶将冈崎片段连接成完整的 DNA 链。
+
+上述顺着复制叉前进方向连续复制生成的新链，被称为前导链（leading strand）。复制方向与复制叉前进方向相反，不连续复制生成的新链就被称为后随链（lagging strand）。
+**** 双向复制（bi-directional replicaiton）
+DNA 复制从固定的复制起始点 oriC(origin C)开始，向两个方向进行复制，称为双向复制。
 *** DNA 复制的酶学
 **** 解螺旋酶
 **** DNA 拓扑异构酶
