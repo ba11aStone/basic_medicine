@@ -853,20 +853,80 @@ DNA 复制时先要有核小体的解开，因而减慢了复制叉行进的速�
 碱基替换是指 DNA 分子上一个或多个碱基对被其他碱基对说代替，单一碱基的替换称为点突变（point mutation），可分为转换（transition）和颠换（transversion）两种形式。
 
 1. 同义突变（same sense mutation）
+   + 基因突变不引起氨基酸种类的改变，又称沉默突变。
 2. 错义突变（missense mutation）
+   + 基因突变后引起氨基酸种类改变的情形。
 3. 无义突变（nonsense mutation）
+   + 基因突变导致编码某种氨基酸的密码子变成了终止密码子（UAA、UAG、UGA），将导致多肽链的合成提前终止，产生一条不完整的多肽，影响蛋白质的功能与活性。
 4. 通读突变（read through mutation）
+   + 基因突变使原来的终止密码子转变为可编码某种氨基酸的密码子，多肽链的合成不被终止，造成通读。
 
 ***** 移码突变（frame-shift mutation）
+移码突变是由于一个或一段核苷酸的缺失或插入引起的。在蛋白质的编码序列中缺失及插入的核苷酸数不是 3 的整数倍，会使其后所译读的氨基酸序列全部混乱。
+
 ***** 重排（rearrangement）
+重排指 DNA 分子内发生的较大片段的交换，但不涉及遗传物质的丢失与增加。重排可以发生在一条染色体的内部也可以发生在两条染色体之间，包括倒位（inversion）、易位（translocation）、融合（fusion）等形式。
+倒位是指移位的 DNA 片段在新的位点上出现了方向的反置；易位是指 DNA 片段从基因组的某一位置转移或交换到另一位置；融合是指两个染色体发生共价连接，或是线性的染色体被环化。
+
 ***** 动态突变（dynamic mutation）
+动态突变又称为三核苷酸重复扩展（trinucleotide repeat expansion）突变。人类基因组存在的短串联重复序列，尤其是基因编码区及其侧翼、甚至内含子中的三核苷酸重复序列，可随生物世代的传递而出现拷贝数不断增加，进而导致某些遗传病的发生，我们称这种基因突变为动态突变。
+
 **** 基因突变的后果
+自然选择就是一种保存有利突变消除有害突变的进化过程。
+
+存在于同种生物不同个体之间的基因型差异的现象，称 DNA 序列多态性（polymophism）。
+
+点突变是导致遗传病发生的重要原因。
+
+致死性突变（lethal mutation）
+
 **** DNA 损伤的修复
-*** RNA 指导的 DNA 合成——逆转录
+
+***** 无差错修复（error-free repairing）
+****** 直接修复（direct repairing），回复修复
+
+****** 切除修复（excision repairing）
+切除修复是 DNA 损伤修复最为普遍的方式，普遍存在于各种生物细胞中，也是人体细胞主要的 DNA 修复机制。
+
+***** 倾向差错修复（error-prone repairing）
+****** 重组修复（recombination repairing）
+
+****** SOS 修复（SOS repairing）
+
+*** RNA 指导的 DNA 合成——逆转录（reverse transcription）
+
 ** RNA 的生物合成
+储存于 DNA 中的遗传信息通过转录（transcription）和翻译（translation）产生具有生物功能的多肽和蛋白质的过程称基因表达（gene expression）。
+
+RNA 在基因表达过程中起了中介体的作用。转录的初级产物为 RNA 前体（RNA precursor），需要经过一系列加工和修饰成为成熟的 RNA 分子（mature RNA）并表现出其生物功能。
+
++ rRNA（ribosomal RNA）
++ mRNA（messenger RNA）
++ tRNA（transfer RNA）
++ 小 RNA，主要包括核小 RNA（small nuclear RNA, snRNA）和微 RNA（microRNA, miRNA）。
+
+RNA 是目前已知的唯一具有储存，传递遗传信息和催化（核酶）三重功能的生物大分子。
+
 *** DNA 指导的 RNA 合成——转录体系
 **** RNA 聚合酶
+催化转录的酶是 RNA 聚合酶（RNA polymerase, RNA-pol/RNAP），也称依赖 DNA 的 RNA 聚合酶（DNA dependent RNA polymerase (DDRP)）或 DNA 指导的 RNA 聚合酶（DNA direct RNA polymerase DDRP），他以 DNA 作为模板，有 Mg^2+ 参与，四种核糖核苷 5'三磷酸（ATP,GTP,CTP,UTP）作为底物。
+
+聚合反应是沿 5'→3' 方向进行。
+
+原核生物只有一种 RNA-pol，真核生物 RNA-pol 有三种，分别催化合成不同种的 RNA。
+
 **** 转录的模板
+在体外，RNA 聚合酶能使 DNA 的两条链同时进行转录；但在体内的情况不同，许多实验证明，1.在体内 DNA 两条链中仅有一条可用于转录；2.在庞大的细胞基因组中，细胞是按不同的发育时序，生理条件和生理需要，只有部分基因发生转录。3.在一个包含许多基因的双链 DNA 分子中，各个基因的模板链并不一定是同一条链。
+
+DNA 分子双链结构中的某一基因转录时作为有效转录模板的链，称模板链（template strand），或负链（也称反义链 antisense strand），按碱基配对合成 RNA 链。另一条与模板链互补的 DNA 链不具模板功能，但其碱基序列与新合成的 RNA 链相对应（只是 T 被 U 取代），也就是说新合成的 RNA 链实际上转录了这条链的碱基序列，若转录产物是 mRNA，则可用作蛋白质翻译的模板，按遗传密码决定氨基酸的序列，故称这条链为编码链（coding strand），或正链（sense strand）。
+
+合成总是从 5'→3' 方向进行，所以转录总是沿模板链的 3'→5' 方向进行。
+
+***** 启动子（promoter）
+启动子是转录开始时 RNA 聚合酶识别、结合和开始转录的一段 DNA 序列。
+
+***** 终止子（teminator）
+
 *** 转录过程
 **** 原核生物的转录过程
 **** 真核生物的转录过程
