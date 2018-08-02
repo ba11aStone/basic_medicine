@@ -206,21 +206,148 @@ Transcription and translation do not start and stop at the same places.
 |--------|-----------------|--------------------------|------------------|--------|
 | 5'--AT | GCTGCATGC       | ATGGGATATAGGTAG          | CACACGT          | CC--3' |
 | 3'--TA | CGACGTACG       | TACCCTATATCCATC          | GTGTGCA          | GG--5' |
-
-  ↓Transcription
-
+    ↓Transcription
 | 5'-Untranslated region | Translated (coding) region     | 3'-Untranslated region |
 | (5'-UTR, or leader)    | Initiation codon    Stop codon | (3'UTR, or trailer)    |
 |------------------------|--------------------------------|------------------------|
 | 5'- GCTGCATGC          | ATGGGATATAGGTAG                | CACACGT -3'            |
-
-  ↓Translation
-
-  fMet-Gly-Tyr-Arg
+    ↓Translation
+    fMet-Gly-Tyr-Arg
 
 ## Replication ##
 
 DNA really dose replicate by a semiconservative mechanism.
 
 ## Mutations ##
+
+Mutation is essential for evolution.
+
+### Sickle Cell Disease ###
+
+> A change in a gene can cause a corresponding change in the protein product of that gene.
+
+---
+
+# Molecular Cloning Methods #
+
+## Gene Cloning ##
+
+### The Role of Restriction Endonucleases ###
+
+The first letter is the first letter of the genus and the next two letters are the first two letters of the species.
+
+Py stands for either of the pyrimidines (T or C), and Pu stands for either purine (A or G).
+
+A 6-bp cutter will yield DNA fragments of average length about 4000 bp, or 4 kilobases (4kb). (4^6=4096)
+
+We call such enzymes that recognize different sites in identical sequences heteroschizomers or neoschizomers, that cut at the same site in the same sequence isoschizomers.
+
+They are identical after rotating them 180 degrees. Sequences with twofold symmetry are also called palindromes.
+
+### Vectors ###
+
+#### Plasmids as Vectors ####
+
+#### Phages as Vectors ####
+
+They infect cells much more efficiently than plasmids transform cells.
+
+#### λ Phage Vectors ####
+
+they can accommodate much more foreign DNA.
+a minimum size requirement for their inserts.
+
+An ideal probe would be a labeled nucleic acid.
+
+#### Cosmids ####
+
+#### M13 Phage Vectors ####
+
+The genome of this phage is a single-stranded DNA.
+
+#### Phagemids ####
+
+They have characteristics of both phages and plasmids.
+
+> Two kinds of phages have been especially popular as cloning vectors.
+> 1. λ
+> 2. the M13 phages
+
+#### Eukaryotic Vectors and Very High Capacity Vectors ####
+
+### Identifying a Specific Clone with a Specific Probe ###
+
+1. polynucleotides (or oligonucleotides)
+2. antibodies
+
+#### Polynucleotide Probes ####
+
+use more than one oligonucleotide
+most amino acids are encoded by more than one triplet codon.
+
+### cDNA Cloning ###
+
+A cDNA (complementary DNA or copy DNA) is a DNA copy of an RNA, usually an mRNA.
+
+Reverse transcriptase is like any other DNA-synthesizing enzyme in that it cannot initiate DNA synthesis without a primer.
+
+using the first strand as the template.
+
+### Rapid Amplification of cDNA Ends ###
+
+## The Polymerase Chain Reaction ##
+
+### Standard PCR ###
+
+to make a copy of a selected region of DNA.
+it usually takes fewer than 20 cycles.
+
+### Using Reverse Transcriptase PCR (RT-PCR) in cDNA Cloning ###
+
+start with an mRNA instead of a double-stranded DNA.
+
+the cDNA itself has neither of the restriction sites that have been added to its ends.
+
+> The sequence of the mRNA must be known so the primers for the PCR step can be signed.
+
+### Real-Time PCR ###
+
+quantifying the amplification in real time.
+
+> measured in real time in a fluorimeter.
+
+## Methods of Expressing Cloned Genes ##
+
+1. to produce large quantities of particular DNA sequences
+2. to make a large quantity of the gene's product
+
+### Expression Vectors ###
+
+#### Inducible Expression Vectors ####
+
+The more mRNA that is produced, the more protein product will be made.
+
+#### Expression Vectors That Produce Fusion Proteins ####
+
+purifying the protein product.
+
+#### Eukaryotic Expression Systems ####
+
+the gene can be expressed in a eukaryotic cell. using a shuttle vector that can replicate in both bacterial and eukaryotic cells.
+
+the term *transfected* with eukaryotic cells instead of *transformed*, which we use with bacteria.
+We use transfection to denote introducing new DNA into a eukaryotic cell.
+
+> 1. Eukaryotic proteins made in eukaryotic cells tend to be folded properly.
+> 2. Eukaryotic proteins made in eukaryotic cells are modified (phosphorylated, glycosylated, etc.) in a eukaryotic manner.
+
+### Other Eukaryotic Vectors ###
+
+### Using the Ti Plasmid to Transfer Genes to Plants ###
+
+> To clone a gene, one must insert it into a vector that can carry the gene into a host cell and ensure that it will replicate there.
+
+---
+
+# Molecular Tools for Studying Genes and Gene Activity #
 
