@@ -351,3 +351,88 @@ We use transfection to denote introducing new DNA into a eukaryotic cell.
 
 # Molecular Tools for Studying Genes and Gene Activity #
 
+## Molecular Separations ##
+
+### Gel Electrophoresis ###
+
+The DNA is negatively charged because of the phophates in its backbone, so it magrates toward the positive pole (the anode) at the end of the gel.
+
+the largest near the top, the smallest near the bottom.
+
+Any unknown DNA can be electrophoresed in parallel with the standard fragments.
+
+PFGE: pulsed-field gel electrophoresis
+
+PAGE: polyacrylamide gel electrophoresis. treat the protein usually with sodium dodecyl sulfate, or SDS. (SDS-PAGE)
+
+| nucleic acid | agarose        |
+| protein      | polyacrylamide |
+
+### Two-Dimensional Gel Electrophoresis ###
+
+### Ion-Exchange Chromatography ###
+
+Ion-exchange chromatography uses a resin to separate substances according to their charges.
+
+DEAE: diethyl-aminoethyl
+
+These positive charges attract negatively charged substances.
+
+### Gel Filtration Chromatography ###
+
+separates molecules based on their physical dimensions (protein size).
+
+Large molecules will emerge first from the column, and small molecules will emerge last.
+
+### Affinity Chromatography ###
+
+That molecule binds to a column coupled to the affinity reagent but all or most other molecules flow through without binding. Then the molecule of interest can be eluted from the column with a solution of a substance that disrupts the specific binding.
+
+## Labeled Tracers ##
+
+### Autoradiography ###
+
+If the band is very dark, it will absorb most of the light.
+
+### Phosphorimaging ###
+
+It is much more accurate in quantifying the amount of radioactivity in a substance.
+
+dpm: disintegrations per minute
+
+### Liquid Scintillation Counting ###
+
+convers the invisible radioactivity into visible light.
+
+cpm: counts per minute
+
+### Nonradioactive Tracers ###
+
+> Those that produce colored products can be detected directly, by observing the appearance of colored spots.
+
+## Using Nucleic Acid Hybridization ##
+
+### Southern Blots: Identifying Specific DNA Fragments ###
+
+A labeled probe will be hybridized to these bands to see how many of them contain coding sequences for the gene of interest.
+
+One gene can give more than one band if it contains one or more cutting sites for the restriction enzyme used.
+
+### DNA Fingerprinting and DNA Typing ###
+
+individuals differ in the pattern of repeats of the basic sequence.
+
+### Forensic Uses of DNA Fingerprinting and DNA Typing ###
+
+### In Situ Hybridization: Locating Genes in Chromosomes ###
+
+FISH: fluorescence in situ hybridization
+
+> to locate genes or other specific DNA sequences.
+
+### Immunoblots (Western Blots) ###
+
+electrophoresis of proteins instead of nucleic acids.
+
+> Proteins are electrophoresed, then blotted to a membrane.
+
